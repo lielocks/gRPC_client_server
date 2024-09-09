@@ -83,3 +83,7 @@ RESTful API를 활용하여 구매, 판매 주문 CRUD를 수행하는 grpc-clie
 
 > ![image](https://github.com/user-attachments/assets/f3c0091b-bdd7-45a4-be2c-1901c795688f)
 
+
+3. **Postman**
+
+- https://elements.getpostman.com/redirect?entityId=22572966-3a09a44e-7186-4a85-be15-345243172121&entityType=collection
