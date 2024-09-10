@@ -1,0 +1,6 @@
+[submodule "grpc-client-trade"]
+	path = grpc-client-trade
+	url = https://github.com/lielocks/grpc-client-trade.git
+[submodule "grpc-server-auth"]
+	path = grpc-server-auth
+	url = https://github.com/lielocks/grpc-server-auth.git
